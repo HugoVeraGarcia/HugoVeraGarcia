@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hugo Vera Garcia</h1>
 <h3 align="center">A passionate full stack developer from Peru</h3>
 
-- 🔭 I’m currently working on [https://django-auth-crud-l6cp.onrender.com/](https://django-auth-crud-l6cp.onrender.com/)
+- 🔭 I’m currently working on to do list on django [https://django-auth-crud-l6cp.onrender.com/](https://django-auth-crud-l6cp.onrender.com/)
 
-- 🌱 I’m currently learning **Go, Nest**
+- 🌱 I’m currently learning **Go (Goland), Nest**
 
 - 👨‍💻 All of my projects are available at [https://hugovera-cv.netlify.app/](https://hugovera-cv.netlify.app/)
 
